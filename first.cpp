@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello world!!!";
+    cout<<"Hello world!!!"<<endl;
     int a =9;
     int b=1;
-    cout<<a+b;
-    cout<<b-a;
+    cout<<a+b<<endl;
+    cout<<a-b;
     return 0;
 }
