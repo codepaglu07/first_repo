@@ -6,6 +6,5 @@ int main()
     int a =9;
     int b=1;
     cout<<a+b<<endl;
-    cout<<a-b;
     return 0;
 }
